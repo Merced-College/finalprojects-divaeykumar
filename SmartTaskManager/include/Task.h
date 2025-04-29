@@ -21,6 +21,9 @@ public:
 
     // Implement declaration
     std::string toString() const;
+
+    // Method to display task details
+    void displayTask() const;
 };
 
-#endif 
+#endif
