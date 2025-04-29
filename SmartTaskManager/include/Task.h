@@ -22,7 +22,7 @@ public:
     // Implement declaration
     std::string toString() const;
 
-    // Method to display task details
+    // Method to display details for given task
     void displayTask() const;
 };
 
